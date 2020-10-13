@@ -6,8 +6,6 @@
 	:heavy_check_mark:  NextLevelWeek 1.0 🚀 Done! :heavy_check_mark:
 </h4>
 <p align="center">	
-<a href="https://www.codacy.com/manual/LucasKohler/NLW-01?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LucasKohler/NLW-01&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/43a25c77fd4a4101a4ecc0d3df303a1e"/></a>
-	
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/LucasKohler/NLW-01">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/aulas/booster/1/edicao/1">
